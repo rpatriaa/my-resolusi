@@ -2,3 +2,7 @@ RPATRIA RESOLUSI
 - Konsisten untuk project sebanyak 1x sebulan
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
+
+Plan 1
+- Membuat web article
+- full stack with laravel
