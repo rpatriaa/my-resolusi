@@ -5,4 +5,3 @@ RPATRIA RESOLUSI
 
 Plan 1
 - Membuat web article
-- full stack with laravel
