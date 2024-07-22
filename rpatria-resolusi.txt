@@ -1,0 +1,4 @@
+RPATRIA RESOLUSI
+- Konsisten untuk project sebanyak 1x sebulan
+- Membuat platform untuk pengelolaan video
+- Membuat forum diskusi
