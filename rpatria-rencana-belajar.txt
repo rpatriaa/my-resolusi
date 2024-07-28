@@ -6,6 +6,8 @@ Rencana Belajar Rpatria
    - vue
    - React
 - Struktur Data Dasar
+  * Array
+  * Object
 - Laravel
 - Create project Article laravel
 - Create project Salon laravel
