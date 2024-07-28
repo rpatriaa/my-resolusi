@@ -3,6 +3,8 @@ Rencana Belajar Rpatria
 - Javascript
   *ES6
   *Framework
+   - vue
+   - React
 - Struktur Data Dasar
 - Laravel
 - Create project Article laravel
